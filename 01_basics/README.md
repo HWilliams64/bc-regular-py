@@ -1,5 +1,24 @@
 # Variables, Types, and Logical Operations
 
+We will begin by learning how to store information in containers known as
+variables then we will discuss the different types of data that may be held in
+variables. We will build upon our knowledge by reviewing how to manipulate and
+display the variables we are working with.  
+
+Next we will learn how to properly format our code and add logic to our code. We
+will examine syntax indentation. Then review compound logical expressions.
+Next, we will use if-statements, elif-statements, and else-statements to
+branch our code and produce variable output depending on the input. 
+
+Finally we will learn about loops. The first loop we will learn about is the
+while-loops and how we can use them to execute code multiple times.
+Additionally, we will learn how to use the Read–evaluate–print loop structure to
+create basic user interfaces. The last loop will discuss are for-loops, we
+will talk about how we can use them to execute code multiple times.
+Additionally, we learn about various flow control operators and how to
+effectively loop through each
+character of a string.    
+
 **No, you don't have to read or watch everything. Pick the medium(s) that fit
 your learning style.**
 
