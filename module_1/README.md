@@ -46,5 +46,5 @@ and Operators and Expressions: P 34 - 38
 - [Slides discussing Formatting and if/else statements](https://docs.google.com/presentation/d/1ImHerq0MdGd3E6DLPHCDlcblKnclflsnIES7YVsW-nI/edit?usp=sharing)
 - [Slides discussing while-loops](https://docs.google.com/presentation/d/1S4h8kPw3bnpPE_tE8wJVuz52wwf9Swxk_bY8CezyX8s/edit?usp=sharing)
 - [Slides discussing fore-loops](https://docs.google.com/presentation/d/1HZDMdgB7LVsR9B1jmAkP6YrnZw2vkeV_5Qe_yulDr94/edit?usp=sharing)
-- [Slide Indexing](https://docs.google.com/presentation/d/19-jPTDO8i7sk281B6rpdO7JCtTOrwvZzzhj2s3G14pg/edit?usp=sharing) 
+- [Slides Indexing](https://docs.google.com/presentation/d/19-jPTDO8i7sk281B6rpdO7JCtTOrwvZzzhj2s3G14pg/edit?usp=sharing) 
   
