@@ -17,9 +17,7 @@ your learning style.**
 
 ## Textbook Reading
 
-[A Byte of Python By: Swaroop C.H.](https://open.umn.edu/opentextbooks/textbooks/a-byte-of-python) 
-
-- Files: P 83-84
+[A Byte of Python By: Swaroop C.H.](https://open.umn.edu/opentextbooks/textbooks/a-byte-of-python) Files: P 83-84
 
 ## Technical Reading
 
