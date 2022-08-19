@@ -11,6 +11,8 @@ your learning style.**
 - Connecting to websites using python
 - Application programming interfaces (API) [This is a test 4]
 - Connecting to other computers using APIs [This is a test 5]
+- Test 6
+- Test 7
 
 ## Technical Reading
 
