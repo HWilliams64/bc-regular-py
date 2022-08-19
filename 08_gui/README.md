@@ -39,5 +39,3 @@ your learning style.**
 - [A notebook that discusses buttons](./examples/02_buttons.ipynb)
 - [A notebook that discusses text input]()
 - [A notebook that discusses applications with multiple windows]()
-  
-This is another test
