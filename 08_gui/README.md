@@ -1,4 +1,3 @@
-Test 123
 # Graphical User Interface
 In the module, we will learn how to create applications that you can see. In
 other words, we will create applications with graphical user interfaces.
@@ -40,5 +39,3 @@ your learning style.**
 - [A notebook that discusses buttons](./examples/02_buttons.ipynb)
 - [A notebook that discusses text input]()
 - [A notebook that discusses applications with multiple windows]()
-
-test 456
