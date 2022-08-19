@@ -9,10 +9,8 @@ your learning style.**
 ## Key Concepts
 
 - Connecting to websites using python
-- Application programming interfaces (API) [This is a test 4]
-- Connecting to other computers using APIs [This is a test 5]
-- Test 6
-- Test 7
+- Application programming interfaces (API) [This is a test 1]
+- Connecting to other computers using APIs [This is a test 2]
 
 ## Technical Reading
 
