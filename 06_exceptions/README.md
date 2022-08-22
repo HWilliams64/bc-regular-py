@@ -9,10 +9,10 @@ your learning style.**
 
 ## Key Concepts
 
-- Context manager
-- Reading a text file
-- What is JSON
-- Working with JSON in Python
+- How to read to traceback
+- Handling an exceptions with try-except
+- Cleaning up your code with a finally block
+- How to raise an exception
 
 ## Textbook Reading
 

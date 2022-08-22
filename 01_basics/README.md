@@ -3,14 +3,14 @@
 We will begin by learning how to store information in containers known as
 variables then we will discuss the different types of data that may be held in
 variables. We will build upon our knowledge by reviewing how to manipulate and
-display the variables we are working with.  
+display the variables we are working with.
 
-Next we will learn how to properly format our code and add logic to our code. We
+Next, we will learn how to properly format our code and add logic to our code. We
 will examine syntax indentation. Then review compound logical expressions.
 Next, we will use if-statements, elif-statements, and else-statements to
-branch our code and produce variable output depending on the input. 
+branch our code and produce variable output depending on the input.
 
-Finally we will learn about loops. The first loop we will learn about is the
+Finally, we will learn about loops. The first loop we will learn about is the
 while-loops and how we can use them to execute code multiple times.
 Additionally, we will learn how to use the Read–evaluate–print loop structure to
 create basic user interfaces. The last loop will discuss are for-loops, we
@@ -24,10 +24,10 @@ your learning style.**
 
 ## Key Concepts
 
-- Variables, assignment, and data types
+- Variable assignment, and data types
 - Console input and output
-- Use variables in If statements to branch your code
-- Work with while loops
+- Flow control with if/else statements
+- While loops and for loops
 
 ## Textbook Reading
 

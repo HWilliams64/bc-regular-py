@@ -11,9 +11,10 @@ your learning style.**
 
 ## Key Concepts
 
-- What is an object?
-- What is the difference between a method and a function?
-- Getters and setters?
+- Creating our own classes
+- Using our own class to create an object
+- The difference between a method and a function
+- Creating getters and setters
 - Local/Instance variables
 
 ## Textbook Reading
