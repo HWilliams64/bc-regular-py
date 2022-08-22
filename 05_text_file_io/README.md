@@ -1,4 +1,4 @@
-# Data Structures
+# Text File IO
 
 In this module, we will learn how to read and write text to a text file.
 Additionally, we will discuss saving and loading data structures and other

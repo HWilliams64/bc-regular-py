@@ -1,4 +1,4 @@
-# Data Structures
+# Exceptions
 In this module, we will learn how to debug our code and handle the inevitable
 errors we are confronted with in our development. Additionally, we will learn
 how to raise our exceptions when the user of our application does an

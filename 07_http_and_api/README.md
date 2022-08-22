@@ -1,4 +1,4 @@
-# Data Structures
+# HTTP and API
 In the module, we will learn how to work with other people’s code in our
 applications. Then we use the Requests package to make HTTP requests to
 websites and web APIs. 
