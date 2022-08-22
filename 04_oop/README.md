@@ -1,4 +1,4 @@
-# Data Structures
+# Object oriented programming
 
 In this module, we will learn how to represent everyday objects in a
 computer program. This is known as object-oriented programming. We will learn
@@ -19,7 +19,7 @@ your learning style.**
 
 ## Textbook Reading
 
-[A Byte of Python By: Swaroop C.H.](https://open.umn.edu/opentextbooks/textbooks/a-byte-of-python) Data Structures: P 75 - 81
+[A Byte of Python By: Swaroop C.H.](https://open.umn.edu/opentextbooks/textbooks/a-byte-of-python) Objects: P 75 - 81
 
 ## Technical Reading
 
