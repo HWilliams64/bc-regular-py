@@ -34,5 +34,3 @@ your learning style.**
 
 - [Slides discussing Virtual Environments and Pip](https://docs.google.com/presentation/d/1RAD-7Bgt6Qpobktdxffj_JvECxQdqmOEbYtQw91VO8w/edit?usp=sharing)
 - [Slides discussing making HTTP Requests](https://docs.google.com/presentation/d/1rT7tcZdQtJdKct0wdTQcBU66RsKIA1xVaH6mEWPDmcU/edit?usp=sharing)
-- [A notebook that discusses making a request to a web API]()
-  
